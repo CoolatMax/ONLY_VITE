@@ -1,6 +1,9 @@
 # ⚡ Vite Documentation Portfolio: Modern Build Tooling & DX
 
-![Vite HMR](https://raw.githubusercontent.com/vitejs/vite/main/packages/create-vite/template-react/src/assets/react.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/vitejs/vite/main/packages/create-vite/template-react/src/assets/react.svg" width="400" alt="Vite Fast Build">
+</p>
+
 
 ### 👤 Shishir Shreedhar Tambe
 **Ex- Technical Consultant | Technical Writer | Systems Thinker | Documentation Engineer**
