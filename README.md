@@ -1,7 +1,7 @@
 # ⚡ Vite Documentation Portfolio: Modern Build Tooling & DX
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/vitejs/vite/main/packages/create-vite/template-react/src/assets/react.svg" width="400" alt="Vite Fast Build">
+<img src="https://github.com/user-attachments/assets/5e7cf060-4241-4edb-b054-c3a61dbb3d3b" width="400" alt="Vite Fast Build">
 </p>
 
 
